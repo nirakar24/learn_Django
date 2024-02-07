@@ -26,7 +26,6 @@ Navigate to the directory where you want to create your Django project and run t
 python -m venv myenv
 ```
 
-
 ## On macOS/Linux
 ```python
 python3 -m venv myenv
